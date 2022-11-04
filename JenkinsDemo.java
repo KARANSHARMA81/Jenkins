@@ -1,5 +1,5 @@
 class JenkinsDemo{
-Run|Debug
+Run
 public static void main(String args[]){
 System.out.printIn("My first jenkins");
 }
